@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1579690408 source:c:\users\moksleivis\desktop\pamoka-01-22\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+

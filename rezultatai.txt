@@ -1,0 +1,14 @@
+Nuskaite
+12 15 18 12 29 
+bandom
+
+16 18 12 29 
+bandom
+
+19 12 29 
+bandom
+
+20 29 
+bandom
+
+30 
